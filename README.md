@@ -22,15 +22,15 @@
 
 ###
 
-<h3 align="left">-|| About Me ||-</h3>
+<h3 align="center">-|| About Me ||-</h3>
 
 ###
 
-<p align="left">You'll usually find me outside of the Bakery in PG 1 or by spawn in PG 2!<br><br>I really love Five Nights at Freddy's <3<br><br>Please check out my Strawpage to see more about me and my DNI list ^^</p>
+<p align="center">You'll usually find me outside of the Bakery in PG 1 or by spawn in PG 2!<br><br>I really love Five Nights at Freddy's <3<br><br>Please check out my Strawpage to see more about me and my DNI list ^^</p>
 
 ###
 
-<h3 align="left">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</h3>
+<h3 align="center">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</h3>
 
 ###
 

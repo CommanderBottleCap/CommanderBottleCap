@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">You'll usually find me outside of the Bakery in SAFE 1/18+ or by spawn in SAFE 2 !<br><br>I really love Five Nights at Freddy's <3<br><br>Please check out my Strawpage to see more about me and my DNI list ^^</p>
+<p align="center">You'll usually find me by spawn in SAFE 2 !<br><br>I really love Five Nights at Freddy's <3<br><br>Please do not roleplay with me, especially ship roleplays. It makes me really uncomfortable, thank you! ^^</p>
 
 ###
 

@@ -35,14 +35,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/y628ax90s8345yz9va6v4czs6">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=y628ax90s8345yz9va6v4czs6&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img height="200" src="https://media.tenor.com/DA2apAFDApQAAAAj/fnaf-the-puppet.gif"  />
 </div>
 
